@@ -7,7 +7,7 @@ Dependencias usadas:
   provider: ^6.0.4
 ```
 <br>
-API consumida: [!link](https://www.themoviedb.org/settings/api)
+API consumida: <a href='https://www.themoviedb.org/settings/api'>link</a>
 <br><br>
 Presentación de app:
 <br><br>
