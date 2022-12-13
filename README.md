@@ -6,8 +6,9 @@ Dependencias usadas:
   http: ^0.13.5
   provider: ^6.0.4
 ```
-
+<br>
 API consumida: [link](https://www.themoviedb.org/settings/api)
-
+<br><br>
 Presentación de app:
-<video src="/assets/giphy.mp4" width="640" height="480"></video>
+<br><br>
+<img src="https://media.giphy.com/media/RMB2YvXlH7soU5qthR/giphy.gif" width=120/>
