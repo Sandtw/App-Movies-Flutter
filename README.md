@@ -1,16 +1,13 @@
 # app_pelicula
 
-A new Flutter project.
+Dependencias usadas:
+```yaml
+  card_swiper : ^2.0.1
+  http: ^0.13.5
+  provider: ^6.0.4
+```
 
-## Getting Started
+API consumida: [link](https://www.themoviedb.org/settings/api)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Presentación de app:
+<video src="/assets/giphy.mp4" width="640" height="480"></video>
